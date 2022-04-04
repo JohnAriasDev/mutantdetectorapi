@@ -1,6 +1,6 @@
 # mutantdetectorapi
 
-hola, actualmente esta api esta diseñada e implementada en una arquitectura limpia, desarrollada en C# con .NetCore 3.1., podras encontrar aqui tambien implementacion de metodologia TDD con Nunit par Netcore sobre las funcionalidades principales de deteccion, y aplicacion de algunos patrones de clean code (SOLID) como principio Open closed y manejo de concurrencia para la implementacion de los algoritmos de busqueda.
+hola, actualmente esta api esta diseñada e implementada en una arquitectura limpia, desarrollada en C# con .NetCore 3.1., podras encontrar aqui tambien implementacion de metodologia TDD con Nunit para Netcore sobre las funcionalidades principales de deteccion de DNA, y aplicacion de algunos patrones  como principio Open closed y manejo de concurrencia para la implementacion de los algoritmos de busqueda.
 es un API Rest con dos metodos, 
 uno 
 # POST  /mutant
